@@ -1,0 +1,45 @@
+body{
+	margin:0;
+	max-width: 750px;
+	min-width: 320px;
+	margin:0 auto;
+	font-size: 62.5%;
+	height:5000px;
+	/*background: #F4F4F4;*/
+}
+/**{
+	font-size: 100%;
+}*/
+/*html{
+	
+}*/
+.swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+body,h1,h2,h3,h4,h5,h6,input,ul,li,ol,dt,dd,p{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: "arial", "寰蒋闆呴粦";
+}
